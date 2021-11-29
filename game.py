@@ -5,7 +5,7 @@
 import random
 
 board=[]
-level=5# set this to 1 for a normal game
+level=1 
 playerPos=[1,1]
 dragonPos=[]
 playerName=["A","B"]
